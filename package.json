@@ -1,11 +1,6 @@
 {
-  "name": "travel-agent-mvp",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "dev": "vercel dev"
-  },
-  "dependencies": {
-    "node-fetch": "^3.3.2"
-  }
+  "name":"travel-agent-mvp",
+  "private":true,
+  "type":"module",
+  "dependencies":{"node-fetch":"^3.3.2"}
 }
